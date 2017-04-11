@@ -1,0 +1,16 @@
+.movie-item{
+	border: 2px solid #eaeaea;
+	border-radius: 20px;
+	text-align: center;
+	margin: 10px;
+	overflow: hidden;
+}
+input.edit-input{
+	margin: 10px auto;
+	display: block;
+}
+img{
+	width: 250px;
+	height: 250px;
+	box-shadow: 5px 5px 2.5px grey;
+}

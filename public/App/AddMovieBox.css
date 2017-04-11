@@ -1,0 +1,10 @@
+.add-movie-box{
+	padding: 20px;
+	border: 2px solid #eaeaea;
+	border-radius: 20px;
+	margin: 10px;
+}
+input.add-movie{
+	display: block;
+	margin-bottom: 10px;
+}
