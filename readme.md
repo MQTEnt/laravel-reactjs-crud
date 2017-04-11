@@ -29,4 +29,4 @@ webpack
 $ php artisan serve
 ```
 
-### Open http:\\localhost:8000
+### Open localhost:8000
