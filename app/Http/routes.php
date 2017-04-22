@@ -14,6 +14,12 @@
 Route::get('/', function(){
 	return view('example');
 });
+Route::get('/material-ui', function(){
+	return view('material-ui');
+});
+Route::get('/example', function(){
+	return view('example');
+});
 
 //Movie
 Route::post('/movie',['as' => 'movie.store', 'uses' => 'MovieController@store']);

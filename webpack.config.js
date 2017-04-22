@@ -1,10 +1,10 @@
 var path = require('path');
 // var webpack = require('webpack');
 module.exports = {
-  entry: './public/client.js',
+  entry: './public/client-material-ui.js',
 
   output: {
-    filename: 'bundle.js',
+    filename: 'bundle-material-ui.js',
     path: path.join('public/js/')
   },
 

@@ -26,7 +26,7 @@ class App extends Component{
 	}
 	updatingMovie(updatedMovie){
 		let movies = this.state.movies;
-		let objIndex = movies.findIndex((obj => obj.id == updatedMovie.id));
+		let objIndex = movies.findIndex((obj => obj.id === updatedMovie.id));
 		
 		//console.log("Before update: ", movies[objIndex])
 

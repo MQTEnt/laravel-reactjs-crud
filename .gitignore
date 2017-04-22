@@ -4,4 +4,9 @@
 Homestead.yaml
 Homestead.json
 /public/js/bundle.js
+/public/temp
+/public/js/bundle-material-ui.js
+
+/public/App
+/pulic/clien.js
 
