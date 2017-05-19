@@ -22,7 +22,8 @@ module.exports = {
         loader:'style!css!'
       }
     ]
-  }
+  },
+  watch: true
 
   // , plugins: [
   //   new webpack.ProvidePlugin({
